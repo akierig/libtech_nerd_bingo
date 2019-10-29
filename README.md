@@ -26,7 +26,8 @@ CEDWARC, a one day workshop on web archiving and digital preservation hosted by 
 
 *Waaayyyy over the top*
 
-The paper nerd bingo was composed on a Mnemosyne N194A B5 Notebook. The pen was Kaweco Perkeo fountain pen with a medium nib and Graf von Faber-Castell Colbalt Blue ink.
+Nerd Bingo was originally composed on a Mnemosyne N194A B5 Notebook. The pen was a Kaweco Perkeo fountain pen with a medium nib and Graf von Faber-Castell Colbalt Blue ink.
+
 ## Copyright, licensing.
 Library Tech Nerd Bingo is copyright 2019 Andrew Kierig, Sarah Nguyen, Mary Bakija, Genevive Miliken, Shawn Jones, and Martin Klein.
 
