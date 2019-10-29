@@ -26,7 +26,4 @@ The paper nerd bingo was composed on a Mnemosyne N194A B5 Notebook. The pen was 
 ## Copyright, licensing.
 Library Tech Nerd Bingo is copyright 2019 Andrew Kierig, Sarah Nguyen, Mary Bakija, Genevive Miliken, Shawn Jones, and Martin Klein.
 
-It's free to use under the terms of a [Creative CommonsAttribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). If this were _actual_ software, I think we'd be torn between MIT and GPL3 licensing.
-
-
-
+It's free to use under the terms of a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). If this were _actual_ software, I think we'd be torn between MIT and GPL3 licensing.
