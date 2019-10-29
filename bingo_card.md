@@ -9,8 +9,5 @@
 | Has a Mastodon/`tildeverse` | `vi` user who thinks `vim` users are wimps | Linux vs. MacOS vs. BSD vs. Windows Holy Warrior | uses version control for *everything* | too many aliases to remember and keeps adding more |
 | Mechanical Keyboard Switch Opinions | FLOSS vs. FOSS vs. OSS | `apt` vs. `dnf`/`yum` | will generally prefer CLI tools to anything with a GUI | Tableau vs. `ggplot` |
 
-
-
-----
 [the 404 message comes from jwz.org](https://www.jwz.org/aslkdnaslknd%c3%b6al)
 
