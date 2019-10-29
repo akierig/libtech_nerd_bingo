@@ -15,10 +15,7 @@ It wouldn't be _truly_ library nerdy if I failed to note the following.
 
 *Location*
 
-_The Patio_
-Tonic at Quigley's 
-2036 G St NW
-Washington, DC 20052
+_The Patio_, Tonic at Quigley's, 2036 G St NW, Washington, DC 20052
 
 *Related Event*
 
