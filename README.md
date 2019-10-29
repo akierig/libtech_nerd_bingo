@@ -28,7 +28,7 @@ CEDWARC, a one day workshop on web archiving and digital preservation hosted by 
 
 Nerd Bingo was originally composed on a Mnemosyne N194A B5 Notebook. The pen was a Kaweco Perkeo fountain pen with a medium nib and Graf von Faber-Castell Colbalt Blue ink.
 
-## Copyright, licensing.
+## Copyright and Licensing
 Library Tech Nerd Bingo is copyright 2019 Andrew Kierig, Sarah Nguyen, Mary Bakija, Genevive Miliken, Shawn Jones, and Martin Klein.
 
 It's free to use under the terms of a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/). If this were _actual_ software, I think we'd be torn between MIT and GPL3 licensing.
