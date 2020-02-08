@@ -6,6 +6,11 @@ In response, one of my distinguished fellow conferees said "And I think that's n
 
 Nerd Bingo was born.
 
+## Versions
+v.1.2 was created in response to [this 
+tweet](https://twitter.com/snewyuen/status/1225875465786683392) from 
+[@michi-gato](https://github.com/michi-gato).
+
 ## Provenance, etc.
 It wouldn't be _truly_ library nerdy if I failed to note the following.
 
