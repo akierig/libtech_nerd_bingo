@@ -12,4 +12,4 @@
 
 [the 404 message comes from jwz.org](https://www.jwz.org/aslkdnaslknd%c3%b6al)
 
-![Licensed under CC BY-SA 4.0 | 40%](by-sa.png)
+[Licensed under CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
