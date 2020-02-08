@@ -1,5 +1,5 @@
 # LibTech Nerd Bingo
-## v. 1.2\
+## v. 1.2
 2020-02-07
 
 | B | I | N | G | O |
