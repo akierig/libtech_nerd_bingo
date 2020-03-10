@@ -6,15 +6,16 @@ In response, one of my distinguished fellow conferees said "And I think that's n
 
 Nerd Bingo was born.
 
-- [How to Play](##how-to-play)
-- [Versions](##versions)
-- [Provenance, etc.](##provenance,-etc.)
-- [Copyright and Licensing](##copyright-and-licensing)
+- [How to Play](https://github.com/akierig/libtech_nerd_bingo##how-to-play)
+- [Versions](https://github.com/akierig/libtech_nerd_bingo#versions)
+- [Provenance, etc.](https://github.com/akierig/libtech_nerd_bingo#provenance-etc)
+- [Copyright and Licensing](https://github.com/akierig/libtech_nerd_bingo#copyright-and-licensing)
 
 ## How to Play
 1. Open a new window with the Bingo card in display. (The card is available in various formats: [md](https://github.com/akierig/libtech_nerd_bingo/blob/master/bingo_card.md), [odt](https://github.com/akierig/libtech_nerd_bingo/blob/master/bingo_card.odt), and [pdf](https://github.com/akierig/libtech_nerd_bingo/blob/master/bingo_card.pdf))
 2. Mark up the card however you want as you keep track of the spaces.
-3. [Create and submit a new issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) when you think you won Bingo. You will be contacted to receive a sticker. ***air horns***
+3. [Create and submit a new issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) when you think you got Bingo. **Bingo secnarios = (1) a combo of filling in a "T" and "L" shape OR (2) blackout.**
+4. First Issue submittors for each Bingo scenario will be contacted & will receive a sticker. ***air horns***
 
 ## Versions
 v.1.2 was created in response to [this 
