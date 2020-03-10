@@ -6,10 +6,10 @@ In response, one of my distinguished fellow conferees said "And I think that's n
 
 Nerd Bingo was born.
 
-[How to Play](##how-to-play)
-[Versions](##versions)
-[Provenance, etc.](##provenance,-etc.)
-[Copyright and Licensing](##copyright-and-licensing)
+- [How to Play](##how-to-play)
+- [Versions](##versions)
+- [Provenance, etc.](##provenance,-etc.)
+- [Copyright and Licensing](##copyright-and-licensing)
 
 ## How to Play
 1. Open a new window with the Bingo card in display. (The card is available in various formats: [md](https://github.com/akierig/libtech_nerd_bingo/blob/master/bingo_card.md), [odt](https://github.com/akierig/libtech_nerd_bingo/blob/master/bingo_card.odt), and [pdf](https://github.com/akierig/libtech_nerd_bingo/blob/master/bingo_card.pdf))
