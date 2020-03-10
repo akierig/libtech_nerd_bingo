@@ -1,6 +1,6 @@
 # Library Tech Nerd Bingo
 
-Nerd Bingo is a bingo card that came about when, during a discussion about `git`. I ([@akierig](github.com/akierig)) mentioned that I use `git` to sync my `.fishrc` and other personal preferences (e.g., IRC client configuration) across the five computers in my life. 
+Nerd Bingo is a bingo card that came about when, during a discussion about `git`. I ([@akierig](github.com/akierig)) mentioned that I use `git` to sync my `.bashrc` and other personal preferences (e.g., IRC client configuration) across the five computers in my life. 
 
 In response, one of my distinguished fellow conferees said "And I think that's nerd bingo right there!"
 
